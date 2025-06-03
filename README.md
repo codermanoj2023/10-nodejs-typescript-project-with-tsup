@@ -11,11 +11,11 @@ A Node.js project using TypeScript and Express.js for building REST APIs.
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/codermanoj2023/05-initializing-working-typescript-nodejs-project.git
+   git clone https://github.com/codermanoj2023/10-nodejs-typescript-project-with-tsup.git
    ```
 
 ### Important points without which we can't use this project
-- ts-node
+- tsup
 - typescript
 - tsconfig.json
 
